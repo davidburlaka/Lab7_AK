@@ -1,7 +1,6 @@
 # ak_lab7
 
 ## Error message
-
 ![](https://github.com/davidburlaka/Lab7_AK/blob/main/11.png)
 ![](https://github.com/davidburlaka/Lab7_AK/blob/main/12.png)
 

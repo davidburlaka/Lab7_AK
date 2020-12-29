@@ -1,11 +1,14 @@
 # ak_lab7
 
-## Error message
+## Student: David Burlaka
+## Group: IO-83
+
+## Checking error message
 
 ![](https://github.com/davidburlaka/Lab7_AK/blob/main/11.png)
 ![](https://github.com/davidburlaka/Lab7_AK/blob/main/12.png)
 
-## Error message ( BUG_ON(1) )
+## Checking error message ( BUG_ON(1) )
 
 ![](https://github.com/davidburlaka/Lab7_AK/blob/main/1.png)
 ![](https://github.com/davidburlaka/Lab7_AK/blob/main/2.png)
